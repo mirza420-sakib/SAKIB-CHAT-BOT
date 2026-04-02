@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "Sakib chat bot ",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By Sakib SAHU",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -27,10 +27,10 @@
     "shahadat sahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Sakib",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/shahadat-sahu/Sakib-CHAT-BOT/issues"
   },
   "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
   "dependencies": {
